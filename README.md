@@ -4,10 +4,10 @@
 ## Presentación Personal
 
 ### Datos Personales
-- Mi nombre es:
-- Vivo en
+- Mi nombre es: Leandro Maximiliano Dominguez
+- Vivo en hurlingam cerca de la goodyear
 
 
 ### Otra Información
-- Este es mi primer contacto con github
-- Tengo un gato que se llama Timoteol
+- Este es mi primer contacto con github y me maree ya con el inico pero espero poderentender todo
+- Tengo un gato nblanco y naranja gordo llamado hichigo
